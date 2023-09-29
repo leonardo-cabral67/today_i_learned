@@ -1,3 +1,7 @@
+[Go back to Web](https://github.com/leonardo-cabral67/today_i_learned/tree/main/web)
+
+[Go back to README](https://github.com/leonardo-cabral67/today_i_learned/tree/main)
+
 ### CGI
 
 (Common gateway interface)
